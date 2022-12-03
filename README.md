@@ -22,4 +22,4 @@
 
 
 ### 📫 How to reach me
-[![Linkedin]](https://www.linkedin.com/in/rafibahez/)
+[![Linkedin](https://img.shields.io/badge/-@rafibahez?style=flat-square&logo=Linkedin&logoColor=eee&labelColor=blue)](https://www.linkedin.com/in/rafibahez/)
