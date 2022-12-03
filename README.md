@@ -3,7 +3,7 @@
 #### Software Engineer @LottoSheild 
 
 ### What I'm doing now
-- 🔗 Working in Python and AWS services
+- 🔗 Coding in Python on AWS 
 - 📖 Reading Clean Code
 - 🌱 Improve my Problem Solving Skills
 
