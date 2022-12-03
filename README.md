@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi, I am Rafi Bahez
 
-<!--
-**RafiBahez/RafiBahez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Software Engineer | Software Engineer @LottoSheild | 
 
-Here are some ideas to get you started:
+### What I'm doing now
+- 🔗 Working in Python and AWS services
+- 📖 Reading Clean Code
+- 🌱 Improve my Problem Solving Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Tech stack
+![Python](https://img.shields.io/badge/-Python-444?logo=Python&logoColor=eee&labelColor=blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-444?logo=javascript&logoColor=yellow&labelColor=222)
+![TypeScript](https://img.shields.io/badge/-TypeScript-444?logo=typescript&logoColor=blue&labelColor=222)
+
+![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-444?logo=tailwindcss&logoColor=eee&labelColor=blue)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-444?logo=Bootstrap&logoColor=eee&labelColor=blue)
+![Webpack](https://img.shields.io/badge/-Webpack-444?logo=Webpack&logoColor=blue&labelColor=222)
+
+![Clean Code](https://img.shields.io/badge/Clean_Code-eee?style=flat-square)
+![GitFlow](https://img.shields.io/badge/GitFlow-eee?style=flat-square)
+
+
+### 📫 How to reach me
+[![Linkedin]](https://www.linkedin.com/in/rafibahez/)
