@@ -13,10 +13,12 @@
 ![Django](https://img.shields.io/badge/-Django-444?logo=Django&logoColor=eee&labelColor=success)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-444?logo=javascript&logoColor=yellow&labelColor=222)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-444?logo=typescript&logoColor=blue&labelColor=222)
-
 ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-444?logo=tailwindcss&logoColor=eee&labelColor=blue)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-444?logo=Bootstrap&logoColor=eee&labelColor=blue)
 ![Webpack](https://img.shields.io/badge/-Webpack-444?logo=Webpack&logoColor=blue&labelColor=222)
+
+### AWS
+![Lambda](https://img.shields.io/badge/-lambda-444?logo=Python&logoColor=eee&labelColor=orange)
 
 ### Previsouly Worked With:
 ![PHP](https://img.shields.io/badge/-PHP-444?logo=php&logoColor=eee&labelColor=blue)
