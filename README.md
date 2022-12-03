@@ -8,8 +8,9 @@
 - 🌱 Improve my Problem Solving Skills
 
 
-### Tech stack
+### Current Tech Stack
 ![Python](https://img.shields.io/badge/-Python-444?logo=Python&logoColor=eee&labelColor=blue)
+![Django](https://img.shields.io/badge/-Django-444?logo=Django&logoColor=eee&labelColor=success)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-444?logo=javascript&logoColor=yellow&labelColor=222)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-444?logo=typescript&logoColor=blue&labelColor=222)
 
