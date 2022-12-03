@@ -7,6 +7,8 @@
 - 📖 Reading Clean Code
 - 🌱 Improve my Problem Solving Skills
 
+### Cloud
+![AWS](https://img.shields.io/badge/-AWS-444?logo=amazon%20aws&logoColor=eee&labelColor=orange)
 
 ### Current Working Tech Stack
 ![Python](https://img.shields.io/badge/-Python-444?logo=Python&logoColor=eee&labelColor=blue)
@@ -16,16 +18,17 @@
 ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-444?logo=tailwindcss&logoColor=eee&labelColor=blue)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-444?logo=Bootstrap&logoColor=eee&labelColor=blue)
 
-
-### Cloud
-![AWS](https://img.shields.io/badge/-AWS-444?logo=amazon%20aws&logoColor=eee&labelColor=orange)
-
 ### Previsouly Worked With
 ![PHP](https://img.shields.io/badge/-PHP-444?logo=php&logoColor=eee&labelColor=blue)
 ![Laravel](https://img.shields.io/badge/-Laravel-444?logo=laravel&logoColor=eee&labelColor=red)
 ![Webpack](https://img.shields.io/badge/-Webpack-444?logo=Webpack&logoColor=blue&labelColor=222)
 ![React](https://img.shields.io/badge/-React-444?logo=react&logoColor=eee&labelColor=blue)
 ![Vue](https://img.shields.io/badge/-Vue-444?logo=vuedotjs&logoColor=white&labelColor=success)
+
+### Database Management Systems
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-444?logo=Amazon%20DynamoDB&logoColor=eee&labelColor=yellow)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-444?logo=PostgreSQL&logoColor=eee&labelColor=blue)
+
 
 ### 📫 How to reach me
 [![Linkedin](https://img.shields.io/badge/-@rafibahez-555?style=flat-square&logo=Linkedin&logoColor=eee&labelColor=blue)](https://www.linkedin.com/in/rafibahez/)
