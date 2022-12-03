@@ -8,7 +8,7 @@
 - 🌱 Improve my Problem Solving Skills
 
 
-### Currently Working Tech Stack
+### Current Working Tech Stack
 ![Python](https://img.shields.io/badge/-Python-444?logo=Python&logoColor=eee&labelColor=blue)
 ![Django](https://img.shields.io/badge/-Django-444?logo=Django&logoColor=eee&labelColor=success)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-444?logo=javascript&logoColor=yellow&labelColor=222)
@@ -17,10 +17,10 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-444?logo=Bootstrap&logoColor=eee&labelColor=blue)
 
 
-### AWS
-![Lambda](https://img.shields.io/badge/-lambda-444?logo=awslambda&logoColor=eee&labelColor=orange)
+### Cloud
+![AWS](https://img.shields.io/badge/-AWS-444?logo=amazon%20aws&logoColor=eee&labelColor=orange)
 
-### Previsouly Worked With:
+### Previsouly Worked With
 ![PHP](https://img.shields.io/badge/-PHP-444?logo=php&logoColor=eee&labelColor=blue)
 ![Laravel](https://img.shields.io/badge/-Laravel-444?logo=laravel&logoColor=eee&labelColor=red)
 ![Webpack](https://img.shields.io/badge/-Webpack-444?logo=Webpack&logoColor=blue&labelColor=222)
