@@ -17,9 +17,6 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-444?logo=Bootstrap&logoColor=eee&labelColor=blue)
 ![Webpack](https://img.shields.io/badge/-Webpack-444?logo=Webpack&logoColor=blue&labelColor=222)
 
-![Clean Code](https://img.shields.io/badge/Clean_Code-eee?style=flat-square)
-![GitFlow](https://img.shields.io/badge/GitFlow-eee?style=flat-square)
-
 
 ### 📫 How to reach me
 [![Linkedin](https://img.shields.io/badge/-@rafibahez-555?style=flat-square&logo=Linkedin&logoColor=eee&labelColor=blue)](https://www.linkedin.com/in/rafibahez/)
