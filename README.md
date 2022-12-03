@@ -23,7 +23,7 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-444?logo=laravel&logoColor=eee&labelColor=red)
 ![Webpack](https://img.shields.io/badge/-Webpack-444?logo=Webpack&logoColor=blue&labelColor=222)
 ![React](https://img.shields.io/badge/-React-444?logo=react&logoColor=eee&labelColor=blue)
-![Vue](https://img.shields.io/badge/-Vue-444?logo=vuedotjs&logoColor=success&labelColor=success)
+![Vue](https://img.shields.io/badge/-Vue-444?logo=vuedotjs&logoColor=white&labelColor=success)
 
 ### 📫 How to reach me
 [![Linkedin](https://img.shields.io/badge/-@rafibahez-555?style=flat-square&logo=Linkedin&logoColor=eee&labelColor=blue)](https://www.linkedin.com/in/rafibahez/)
