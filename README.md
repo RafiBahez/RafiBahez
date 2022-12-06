@@ -1,6 +1,6 @@
 # Hi, I am Rafi Bahez
 
-#### Software Engineer @LottoSheild 
+#### Software Engineer 
 
 ### What I'm doing now
 - 🔗 Coding in Python on AWS 
