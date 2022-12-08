@@ -32,4 +32,4 @@
 
 ### 📫 How to reach me
 [![Linkedin](https://img.shields.io/badge/-@rafibahez-555?style=flat-square&logo=Linkedin&logoColor=eee&labelColor=blue)](https://www.linkedin.com/in/rafibahez/)
-[![Github](https://img.shields.io/badge/Github-rafibahez-555?style=flat-square&logo=github&logoColor=eee&labelColor=222)](https://github.com/rafibahez)
+[![Github](https://img.shields.io/badge/-rafibahez-555?style=flat-square&logo=github&logoColor=eee&labelColor=222)](https://github.com/rafibahez)
