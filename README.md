@@ -30,6 +30,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-444?logo=PostgreSQL&logoColor=eee&labelColor=blue)
 
 
-### 📫 How to reach me
+### 📫 How to Reach Me!
 [![Linkedin](https://img.shields.io/badge/-@rafibahez-555?style=flat-square&logo=Linkedin&logoColor=eee&labelColor=blue)](https://www.linkedin.com/in/rafibahez/)
 [![Github](https://img.shields.io/badge/-rafibahez-555?style=flat-square&logo=github&logoColor=eee&labelColor=222)](https://github.com/rafibahez)
