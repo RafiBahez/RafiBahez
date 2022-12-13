@@ -33,3 +33,5 @@
 ### 📫 How to Reach Me!
 [![Linkedin](https://img.shields.io/badge/-@rafibahez-555?style=flat-square&logo=Linkedin&logoColor=eee&labelColor=blue)](https://www.linkedin.com/in/rafibahez/)
 [![Github](https://img.shields.io/badge/-rafibahez-555?style=flat-square&logo=github&logoColor=eee&labelColor=222)](https://github.com/rafibahez)
+[![HackerRank](https://img.shields.io/badge/-rafibahez-444?style=flat-square&logo=HackerRank&logoColor=00EA64&labelColor=222)](https://www.hackerrank.com/rafibahez)
+
