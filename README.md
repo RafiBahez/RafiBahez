@@ -8,7 +8,7 @@
 - 🌱 Improve my Problem Solving Skills
 
 ### Cloud
-![AWS](https://img.shields.io/badge/-AWS-444?logo=amazon%20aws&logoColor=eee&labelColor=orange)
+![AWS Certified Cloud Practitioner](https://img.shields.io/badge/-AWS-444?logo=amazon%20aws&logoColor=eee&labelColor=orange)
 
 ### Current Working Tech Stack
 ![Python](https://img.shields.io/badge/-Python-444?logo=Python&logoColor=eee&labelColor=blue)
