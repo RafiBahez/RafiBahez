@@ -3,9 +3,9 @@
 #### Software Engineer 
 
 ### What I'm doing now
-- 🔗 Coding in Python on AWS 
-- 📖 Reading Clean Code
-- 🌱 Improve my Problem Solving Skills
+- 🔗 Coding in Python
+- 📖 Learning cloud
+- 🌱 Improving my skills
 
 ### Cloud
 ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/-AWS%20Certified%20Cloud%20Practitioner-444?logo=amazon%20aws&logoColor=eee&labelColor=orange)
