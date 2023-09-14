@@ -8,7 +8,7 @@
 - 🌱 Improving my skills
 
 ### Cloud
-![AWS Certified Cloud Practitioner](https://img.shields.io/badge/-AWS%20Certified%20Cloud%20Practitioner-444?logo=amazon%20aws&logoColor=eee&labelColor=orange)
+![AWS Cloud Practitioner](https://img.shields.io/badge/-AWS%20Certified%20Cloud%20Practitioner-444?logo=amazon%20aws&logoColor=eee&labelColor=orange)
 
 ### Current Working Tech Stack
 ![Python](https://img.shields.io/badge/-Python-444?logo=Python&logoColor=eee&labelColor=blue)
